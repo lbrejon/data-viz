@@ -1,3 +1,7 @@
+# Students:
+### BOUVRY Maxime<br>
+### BREJON Louis<br><br><br>
+
 # Subject:
 In this mini-project, we will be working with a data set of baby names in France. It contains the list of all baby names registered in France, year by year, from 1900 through 2019. There are two data sets: one aggregated to the national level, and another with data by department. Your goal is to create 3 different visualizations around these data, each focussed on answering different kinds of questions about the data:
 
@@ -33,3 +37,9 @@ Your grade will be based on the final implementation that you will hand in at th
 Does the visualization convey they answer to all of these questions?
 Does the visualization clearly convey the answer to each of these questions?
 Is the visualization clear and have good aesthetics?
+
+
+# Run the code
+You need to go in the ***notebooks/7.0-main.ipynb*** notebooks to see visualizations (you can execute all cells if you want but interactions already work).</br>The final interactive visualization that gathers the all visualizations can be found at the end of the notebook. You can use the slider to see interactions. You can find a snapshot below:
+
+![Alt text](reports/final_visualization_with_slider.png)
